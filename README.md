@@ -1,1 +1,1 @@
-# Kaggle
+# These are Kaggle projects.
