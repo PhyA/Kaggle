@@ -4,5 +4,6 @@
   "TEST_DIR":         "data/test",
   "TRAIN_CLEAN_DIR":  "data/train_resized",
   "TEST_CLEAN_DIR":   "data/test_resized",
-  "SUBMISSION_DIR":   "."
+  "DETECTION_MODEL":  "models/retinanet",
+  "SUBMISSION_DIR":   "submission"
 }
